@@ -1,6 +1,7 @@
 # sample
 
 ## oracle 환경 변수
+```
 # .bash_profile
 
 # Get the aliases and functions
@@ -19,3 +20,4 @@ export ORACLE_HOME_LISTNER=$ORACLE_HOME/bin/lsnrctl
 export LD_LIBRARY_PATH=/home/xecuredb/z_package/server/lib:/home/xecuredb/z_package/api/c/lib:$ORACLE_HOME/lib:/usr/lib
 export PATH=$ORACLE_HOME/bin:$PATH
 
+```
